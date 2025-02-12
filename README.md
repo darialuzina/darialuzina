@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Daria 👨‍💻
+## Hi there 👋 I'm Daria 👩‍💻
 
 A data scientist living in Amsterdam, Netherlands.
 
