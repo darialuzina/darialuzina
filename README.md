@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Daria 👩‍💻
 
-A Machine Learning student living in the Netherlands.
+Data Scientist living in the Netherlands.
 
-- 🔭 Currently working on: Social network post reccomedation system
-- 🌱 Learning: Machine Learning, NLP, LLMs, Statistics
+- 🔭 Currently working on: Compliance RAG and Standard Mapping Systems
+- 🌱 Learning: Agentic AI, ML, NLP, LLMs, Statistics
 
 📫 How to reach me: luzinadaria@gmail.com
